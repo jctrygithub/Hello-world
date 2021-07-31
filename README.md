@@ -7,3 +7,5 @@ Creating and Updating a new branch from within VS rather than the github webpage
 
 
 Had to add new line so that I could commit changes
+
+The issue with having to make a new commit when switching branches is a real pain. some type of bug
