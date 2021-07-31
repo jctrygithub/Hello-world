@@ -11,3 +11,5 @@ line3 After the line 1 and 2 line3 seamed to be the obvious choice
 line4 line 4 is the last created in the inital creation of the Hello-world_FileOne file 
 
 Line5 Line 5 was added to the Hello-world_FileOne file from branch 2. so shouldn't be in branch 1 until it is somehow called into it
+
+Line 6 has now been added in VS. Will try to push and create PR so it goes to the remote server
