@@ -10,3 +10,4 @@ and clash
 and clash
 New line is out of sync with command line file.
 I didn't notice the last line maerge
+Maybe a clash only happens if the two lines are in the same place
