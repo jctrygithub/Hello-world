@@ -1,1 +1,2 @@
 This is new code that will have to be added during a rebase
+New Line from GitHub. This will cause a merge conflic
