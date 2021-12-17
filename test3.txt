@@ -4,3 +4,4 @@ Added a new line fromn local command line
 New Line from GitHub. This will cause a merge conflic
 Yet another new line that will clash and cause a conflic
 lined added to be pulled rather than fetched
+New line is out of sync with command line file.
