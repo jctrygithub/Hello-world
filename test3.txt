@@ -3,3 +3,4 @@ This is new code that will have to be added during a rebase
 Added a new line fromn local command line
 New Line from GitHub. This will cause a merge conflic
 Yet another new line that will clash and cause a conflic
+lined added to be pulled rather than fetched
