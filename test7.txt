@@ -1,0 +1,2 @@
+This was added after test6.txt
+Line added after the initial commit
