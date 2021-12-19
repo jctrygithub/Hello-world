@@ -1,1 +1,2 @@
 This is a new file so shouldn't cause any issues
+Another new line which should be harmless
