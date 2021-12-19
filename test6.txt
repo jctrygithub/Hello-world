@@ -1,3 +1,5 @@
 This is the first branch in feature-three
 A line two that doesn't match the line two on master
 What will happen here. 
+Update test6.txt in the master branch
+Another line added directly into the master
