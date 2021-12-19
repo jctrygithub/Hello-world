@@ -1,3 +1,0 @@
-This is the first branch in feature-three
-A line two that doesn't match the line two on master
-What will happen here. 
