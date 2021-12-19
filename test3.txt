@@ -1,0 +1,5 @@
+This is new code that will have to be added during a rebase
+
+Added a new line fromn local command line
+Maybe a clash only happens if the two lines are in the same place
+A new line in a file that is far small on the remote
